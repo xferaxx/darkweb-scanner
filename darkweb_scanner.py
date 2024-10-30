@@ -4,6 +4,7 @@ import os  # Import the os library to access environment variables
 import json  # Import the json library for handling JSON data
 
 # API key for IntelX API, retrieved from an environment variable or defaults to a specified key if not set
+# I used it here I made a free trial for the task So we can use
 API_KEY = os.getenv("INTELX_API_KEY", "6173b3dd-4892-49d1-b77a-b2b2ea83a244")
 
 # URL to initiate a search on IntelX
