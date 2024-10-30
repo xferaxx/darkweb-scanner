@@ -29,9 +29,9 @@ in CMD or terminal type:
 
    
 ### Step 3: ### install the requirements 
-now after you have cloned my repo and the env is created and activated now you can the requirements
-in CMD or terminal type:
+now after you have cloned my repo and the env is created and activated now you can install the requirements
 
+in CMD or terminal type:
 
 5) pip install -r requirements.txt
 
