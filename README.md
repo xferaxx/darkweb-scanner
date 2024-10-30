@@ -13,20 +13,15 @@ in CMD or terminal type:
 2) Go to the folder you cloned to ( cd enqode )
 
 ### Step 2: Setting up a virtual environment and activate it
-
 ( FOR WINDOWS USERS)
 in CMD or terminal type:
 3) python -m venv env
 4) env\Scripts\activate
-
 (FOR MAC OR LINUX USERS)
 3) python3 -m venv env
 4) source env/bin/activate
-
 ### Step 3: ### install the requirements 
-
 now after you have cloned my repo and the env is created and activated now you can the requirements
-
 in CMD or terminal type:
 5) pip install -r requirements.txt
 
