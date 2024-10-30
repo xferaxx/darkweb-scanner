@@ -25,19 +25,19 @@ in CMD or terminal type:
 (FOR MAC OR LINUX USERS)
 
 3) python3 -m venv env
-4) source env/bin/activate
+5) source env/bin/activate
 
    
-### Step 3: ### install the requirements 
+### Step 3: install the requirements 
 now after you have cloned my repo and the env is created and activated now you can install the requirements
 
 in CMD or terminal type:
 
 5) pip install -r requirements.txt
 
-### Step 4(Final): ### Run the Script
+
+### Step 4(Final): Run the Script
 
 FINISH NOW YOU CAN RUN THE PYTHON SCRIPT BY TYPING IN CMD:
-
 
 6) python darkweb_scanner.py
