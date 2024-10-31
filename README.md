@@ -17,13 +17,14 @@ in CMD or terminal type:
 ### Step 2: Setting up a virtual environment and activate it
 
 ( FOR WINDOWS USERS)
+
 in CMD or terminal type:
 
 3) python -m venv env
 4) env\Scripts\activate
-
    
 (FOR MAC OR LINUX USERS)
+
 3) python3 -m venv env
 5) source env/bin/activate
 
