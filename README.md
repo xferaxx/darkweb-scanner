@@ -11,8 +11,8 @@
 ### Step 1: Clone the Repository
 
 in CMD or terminal type:
-1) git clone https://github.com/xferaxx/enqode.git
-2) Go to the folder you cloned to ( cd enqode )
+1) git clone https://github.com/xferaxx/darkweb-scanner.git
+2) Go to the folder you cloned to ( cd darkweb-scanner )
 
 ### Step 2: Setting up a virtual environment and activate it
 
